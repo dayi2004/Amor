@@ -1,0 +1,9 @@
+window.onload = function() {
+    var respuesta;
+    do {
+        respuesta = confirm("¿QUIERES SER EL AMOR DE MI VIDA?");
+        if (respuesta) {
+            alert("Eres mi Primer y único Amor no Existe nadie como tú eres el AMOR DE MI ETERNIDAD");
+        }
+    } while (!respuesta);
+}
